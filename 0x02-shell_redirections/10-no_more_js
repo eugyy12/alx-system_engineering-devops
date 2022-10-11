@@ -1,2 +1,0 @@
-#!/bin/bash
-fnd . -name '*.js' type f -delete
